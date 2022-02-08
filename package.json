@@ -1,0 +1,19 @@
+{
+  "name": "veaury",
+  "version": "0.0.1-beta.1",
+  "description": "Use React in Vue3 and Vue3 in React, And as perfect as possible!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devilwjp/veaury.git"
+  },
+  "author": "Devle Wu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/devilwjp/veaury/issues"
+  },
+  "homepage": "https://github.com/devilwjp/veaury#readme"
+}
